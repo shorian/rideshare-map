@@ -1,0 +1,20 @@
+:root {
+    /* Navbar, h1, buttons */
+    --color-primary: #f15d22;
+    /* h3 */
+    --color-secondary: #59c9e6;
+    --color-tertiary: #3e5878;
+    -color-tertiary-light: #b1cae9;
+    /* Body backgrouind, navbar text/buttons */
+    --color-grey-1: #fefefe;
+    /* Container background */
+    --color-grey-2: #f9f9f9;
+    /* Footer background */
+    --color-grey-3: #f0f0f0;
+    /* Body text */
+    --color-grey-4: #545454;
+    /* Other body text */
+    --color-grey-5: #3b3b3b;
+    /* Bottom bar */
+    --color-grey-6: #383838;
+}
