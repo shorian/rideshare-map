@@ -44,6 +44,20 @@ img {
     max-height: 100%;
 }
 
+a {
+    color: var(--color-primary);
+}
+
+footer {
+    padding: 0.75rem 2rem;
+    background-color: var(--color-grey-6);
+    color: var(--color-grey-1);
+}
+
+footer a {
+    color: var(--color-grey-1);
+}
+
 .top-nav {
     background-color: var(--color-primary);
     color: var(--color-grey-1);
