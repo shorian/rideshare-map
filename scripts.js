@@ -41,11 +41,11 @@
 const nalandaWest = { lat: 47.654, lng: -122.344 };
 
 const drivers = [
-  { name: "Deb", lat: 47.722, lng: -122.312 },
+  { name: "Deb", lat: 47.727, lng: -122.331 },
   { name: "Alice", lat: 47.599, lng: -122.308 }
 ];
 
-const riders = [{ name: "Sid", lat: 47.706, lng: -122.33 }, { name: "Bob", lat: 47.620, lng: -122.314}];
+const riders = [{ name: "Sid", lat: 47.708, lng: -122.313 }, { name: "Bob", lat: 47.620, lng: -122.314}];
 
 let map;
 async function initMap() {
