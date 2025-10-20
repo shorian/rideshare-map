@@ -19,3 +19,47 @@
     /* Bottom bar */
     --color-grey-6: #383838;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100%;
+    font-family: "Nunito Sans", "Nunito", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    color: var(--color-primary);
+    font-weight: 700;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.top-nav {
+    background-color: var(--color-primary);
+    color: var(--color-grey-1);
+    padding: 0.75rem 2rem;
+    height: 90px;
+}
+
+.main {
+    block-size: 100%;
+    inline-size: 80%;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+#map {
+    margin: auto;
+    inline-size: 100%;
+    block-size: 80vh;
+}
